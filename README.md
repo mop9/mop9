@@ -1,10 +1,4 @@
 # About Me
-<div>
-    <img align="left" height="157vh" src="https://files.catbox.moe/9n0szx.gif">
-    <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
-</div>
-
-
 ```
 Name...................:  Merle Spain
 Age....................:  24 years old
