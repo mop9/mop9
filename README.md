@@ -2,7 +2,7 @@
 ```
 Name...................:  Merle Spain
 Age....................:  24 years old
-Mostly programming in..:  Python
+Mostly programming in..:  Typescript
 Currently in...........:  College Studying Networking / CyberSec
 Intetests..............:  Cybersecurity, InfoSec, Crypto, Programming,
                           Social Engineering & Pentesting
