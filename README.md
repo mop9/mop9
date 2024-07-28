@@ -8,7 +8,7 @@ Intetests..............:  Cybersecurity, InfoSec, Crypto, Programming,
                           Social Engineering & Pentesting
 ```
 
-<div align="left">
+<div align="center">
   <img src="https://count.getloli.com/get/@:mop9" alt="mop" />
 </div>
 
